@@ -6,9 +6,11 @@ The project explores innovative mechanisms to connect private agencies offering 
 The initiative integrates behavioral insights, strategic planning, and advanced analytics to design a digital platform that facilitates efficient market interactions and fosters a collaborative ecosystem for environmental conservation.
 
 **Objectives**
+
 Optimize Environmental Services: Facilitate cost-effective and scalable solutions for carbon sequestration and soil remediation.
 
 Bridge the Gap: Connect stakeholders through a seamless digital platform to encourage participation and collaboration.
+
 Leverage Data Insights: Utilize data-driven methods to analyze market trends and predict stakeholder behavior, ensuring impactful decision-making.
 
 **Key Features**
